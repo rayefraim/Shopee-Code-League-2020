@@ -10,6 +10,6 @@ This repository contains all notebook for the competitions that have joined by m
 4.
 
 # Table of Contents
-1. Week 1 - Burshing order
+1. Week 1 - Order Brushing
 2. Week 2 - Product Detection
 3. ...
