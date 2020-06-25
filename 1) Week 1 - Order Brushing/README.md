@@ -17,6 +17,6 @@ Abnormal user behaviors on e-commerce platforms can be detected in various ways.
 
 For the purpose of this question, shops are deemed to have conducted order brushing if their concentrate rate is greater that or equal to 3 at any instance
 ```
-ConcentrateRate = Number of orders within 1 hour / Number of unique buyes within 1 hour
+ConcentrateRate = Number of orders within 1 hour / Number of unique buyers within 1 hour
 ```
-For the purpose of this question, suspicious buyers are deemed as the buyer that contributed the highest proportion of orders to a shop that is deemed to have conducted order brushing. For calculation of the highest porportion of orders to a shop, only include the orders that occured in instances when order brushing has been deemed to have teaken place. In the case where mutiple users share the same highest proportion of orders for a specific shop, all those users are deemed to be suspicious buyers.
+For the purpose of this question, suspicious buyers are deemed as the buyer that contributed the highest proportion of orders to a shop that is deemed to have conducted order brushing. For calculation of the highest porportion of orders to a shop, only include the orders that occured in instances when order brushing has been deemed to have teaken place. In the case where mutiple users share the same highest proportion of orders for a specific shop, all those users are deemed to be suspicious buyers. Please refer to the <a href="https://github.com/agunggnug/Shopee-Code-League-2020/blob/master/1)%20Week%201%20-%20Order%20Brushing/Examples.png?raw=true"><b>Example pages</b></a> for more specific cases of order brushing.
