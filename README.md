@@ -10,6 +10,6 @@ This repository contains all notebook for the competitions that have joined by m
 4.
 
 # Table of Contents
-1. Week 1 - Order Brushing
+1. Week 1 - <a href="https://github.com/agunggnug/Shopee-Code-League-2020/tree/master/1)%20Week%201%20-%20Order%20Brushing"><b>Order Brushing</b></a>
 2. Week 2 - Product Detection
 3. ...
