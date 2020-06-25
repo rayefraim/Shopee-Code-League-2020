@@ -12,6 +12,7 @@ Abnormal user behaviors on e-commerce platforms can be detected in various ways.
 ### Task
 
 **1. Identify all shops that are deemed to have conducted order brushing.**
+
 **2. For each shop that is identified to have conducted order brushing, identify the buyers suspected to have conducted order brushing for that shop**
 
 For the purpose of this question, shops are deemed to have conducted order brushing if their concentrate rate is greater that or equal to 3 at any instance
