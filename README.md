@@ -9,4 +9,7 @@ This repository contains all notebook for the competitions that have joined by m
 3.
 4.
 
-
+# Table of Contents
+1. Week 1 - Burshing order
+2. Week 2 - Product Detection
+3. ...
