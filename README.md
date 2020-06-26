@@ -4,10 +4,10 @@ This repository contains all notebook for the competitions that have joined by "
 <center><img src="https://github.com/agunggnug/Shopee-Code-League-2020/blob/master/Picture/Screen%20Shot%202020-06-26%20at%2005.22.14.png?raw=true" alt="" width="1050" height="400"></center>
 
 # Team Members
-1
-2
-3
-4
+1.
+2.
+3.
+4.
 
 # Table of Contents
 1. Week 1 - <a href="https://github.com/agunggnug/Shopee-Code-League-2020/tree/master/1)%20Week%201%20-%20Order%20Brushing"><b>Order Brushing</b></a>
