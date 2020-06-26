@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "agunggnug",
+      "name": "Agung Nugraha",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/60774762?v=4",
+      "profile": "http://www.linkedin.com/in/agunggnug/",
+      "contributions": [
+        "ideas",
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Shopee-Code-League-2020",
+  "projectOwner": "agunggnug",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
